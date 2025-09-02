@@ -1,0 +1,1 @@
+Asynchronous is a non-blocking architecture, which means it doesn’t block further execution while one or more operations are in progress. With async programming, multiple related operations can run concurrently without waiting for other tasks to complete. 
