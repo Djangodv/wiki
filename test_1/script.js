@@ -26,7 +26,7 @@
 
 // Returns a promise
 function fetchFilenames() {
-    return fetch('data.json')
+    return fetch('documents_in_sidenav.json')
         .then(response => response.json())
         // .then(data => console.log(data))
         .catch(error => console.error('Error fetching JSON:', error));
