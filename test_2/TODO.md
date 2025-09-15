@@ -7,3 +7,4 @@
 Additional functionality:
 1. Distinguish between directories and articles
 2. Add even more formats, e.g. code-examples
+3. Specify Github API credential inside the function parameters

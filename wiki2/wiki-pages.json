@@ -1,6 +1,0 @@
-[
-    {"path":"markdown.md", "Name":"Github", "Format":"article", "Directory":false},
-    {"path":"markdown.md", "Name":"Python", "Format":"cheatsheet", "Directory":false},
-    {"path":"markdown-example", "Name":"Markdown", "Format":"cheatsheet", "Directory":true},
-    {}
-]
